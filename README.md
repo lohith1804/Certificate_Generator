@@ -19,8 +19,8 @@ pip install kivy,pip install pandas,pip install docxtpl.
 
     Execute the Python file "certificate_generator.py"
      ![image](https://github.com/user-attachments/assets/50ac293b-b4e5-4c71-8dfe-7313785e0623)
-    Select the "certificate_data.xlsx" from the files listed
-    Click on the Generate Certificate button to generate cerificates
-    Then follow to the directory and certificates folder will be generated and with certificates consisting certificates according to the domain with the name
+    Select the "certificate_data.xlsx" from the files listed.
+   Click on the Generate Certificate button to generate cerificates.
+   Then follow to the directory and certificates folder will be generated and with certificates consisting certificates according to the domain with the name
    ![image](https://github.com/user-attachments/assets/1986f54a-30b5-4995-a36e-7f7c68821f01)
 
